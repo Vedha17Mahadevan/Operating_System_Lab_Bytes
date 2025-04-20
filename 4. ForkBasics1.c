@@ -1,8 +1,3 @@
-//B23CS1262
-//Vedha Mahadevan
-// fork() basics - 28.01.2025
-
-
 #include <sys/types.h>
 #include <stdio.h>
 #include <unistd.h>
