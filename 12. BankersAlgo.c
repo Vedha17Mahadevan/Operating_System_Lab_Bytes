@@ -1,7 +1,3 @@
-//B23CS1262
-//Vedha Mahadevan
-//Bankers Algorithm - 11.03.2025
-
 #include <sys/stat.h>
 #include <sys/mman.h>
 #include <sys/fcntl.h>
