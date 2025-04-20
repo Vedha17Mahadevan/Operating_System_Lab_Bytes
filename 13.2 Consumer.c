@@ -1,7 +1,3 @@
-//B23CS1262
-//Vedha Mahadevan
-//consumer
-
 #include <sys/stat.h>
 #include <sys/mman.h>
 #include <sys/fcntl.h>
