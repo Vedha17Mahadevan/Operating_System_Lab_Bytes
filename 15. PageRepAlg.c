@@ -1,7 +1,3 @@
-//B23CS1262
-//Vedha Mahadevan
-//Page Replacement Algorithm
-
 #include <unistd.h>
 #include <stdio.h>
 #include<limits.h>
