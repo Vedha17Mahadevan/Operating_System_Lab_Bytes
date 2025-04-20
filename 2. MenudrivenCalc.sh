@@ -1,7 +1,3 @@
-##B23CS1262
-##VEDHA MAHADEVAN
-##Calculator using loop
-
 #!/bin/bash
 
 echo "Menu Driven Calculator"
