@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f9580921-e4cf-4574-9b87-76c32c010ecc)# Operating_System_Lab_Bytes
+# Operating_System_Lab_Bytes
 Practice codes for OS concepts and lab exercises
 
 # Programs Included :
