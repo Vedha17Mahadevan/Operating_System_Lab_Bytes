@@ -1,6 +1,3 @@
-//B23CS1262
-//Vedha Mahadevan
-// Array, Sum, Square using Pipes - 04.02.2025
 
 #include <sys/types.h>
 #include <stdio.h>
