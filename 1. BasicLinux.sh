@@ -38,4 +38,15 @@ else
 	echo $num3 is the Greatest
 fi
 
+echo "Enter limit : "
+read lim
 
+num=1
+
+echo "Natural Numbers : "
+
+while [ $num -le $lim ]
+do 
+	echo $num
+	num=$((num+1))
+done
