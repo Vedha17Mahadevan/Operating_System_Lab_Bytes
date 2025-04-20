@@ -1,7 +1,3 @@
-##B23CS1262
-##VEDHA MAHADEVAN
-##Test
-
 #!/bin/bash
 
 str="Hello World"
