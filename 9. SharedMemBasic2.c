@@ -1,7 +1,3 @@
-//B23CS1262
-//Vedha Mahadevan
-//Shared Memory_2 - 11.02.2025
-
 #include <sys/stat.h>
 #include <sys/mman.h>
 #include <sys/fcntl.h>
